@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "Cr-agent": {
+      "source": {
+        "source": "github",
+        "repo": "SumitMahale/Design-agent"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "design-agent-plugin@Design-agent": true
+  }
+}

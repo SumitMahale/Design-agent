@@ -1,0 +1,14 @@
+{
+  "name": "Design-agent",
+  "owner": {
+    "name": "Sumit Mahale"
+  },
+  "plugins": [
+    {
+      "name": "design-agent-plugin",
+      "source": "./plugins/architecture/architect-helper",
+      "version": "0.2.0",
+      "description": "A manually invoked architecture planning agent for GitHub Copilot"
+    }
+  ]
+}
