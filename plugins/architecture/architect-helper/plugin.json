@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "design-agent-plugin",
+  "name": "design-agent",
   "version": "0.2.0",
   "description": "A manually invoked architecture planning agent for GitHub Copilot",
   "author": {

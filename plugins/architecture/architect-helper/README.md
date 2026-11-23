@@ -1,4 +1,4 @@
-# cr-agent-plugin
+# Design-agent-plugin
 
 An architecture planning agent for GitHub Copilot.
 

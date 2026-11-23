@@ -8,6 +8,6 @@
     }
   },
   "enabledPlugins": {
-    "design-agent-plugin@Design-agent": true
+    "design-agent@Design-agent": true
   }
 }
